@@ -2,14 +2,14 @@
 
 AtliQ, a rapidly expanding global player in the computer hardware industry, faced difficulties in making data-informed decisions. Historically dependent on surveys and gut instincts, the company aimed to shift toward a more data-driven approach to improve business outcomes.
 
-### 📈 Tools & Technologies Used:
+###  Tools & Technologies Used:
 
 * **Power BI**, **MySQL**, **Excel**
 * Dataset provided by **AtliQ Hardware**
 
 ---
 
-### 🔍 Project Workflow:
+###  Project Workflow:
 
 * Cleaned and transformed raw data for usability
 * Designed a **snowflake schema** data model for efficient analytics
@@ -18,7 +18,7 @@ AtliQ, a rapidly expanding global player in the computer hardware industry, face
 
 ---
 
-### 📊 Key Analytical Insights:
+###  Key Analytical Insights:
 
 #### 1. **Finance Dashboard**
 
@@ -54,7 +54,7 @@ AtliQ, a rapidly expanding global player in the computer hardware industry, face
 
 ---
 
-### ⚡ Key Business Recommendations:
+###  Key Business Recommendations:
 
 * **Improve Profitability:** Urgent need to manage rising manufacturing and logistics costs
 * **Refine Regional Strategies:** Focus on improving performance in **India** and the **USA** while leveraging growth in **LATAM** and **EU**
@@ -62,14 +62,15 @@ AtliQ, a rapidly expanding global player in the computer hardware industry, face
 
 ---
 
-### 🔗 Additional Resources:
+**Driving Future Success:**
 
-* \[LinkedIn Post](https://www.linkedin.com/posts/shivendrachaurasia_powerbi-dataanalytics-businessintelligence-activity-7314874588994121728-Jyxz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC8ZfTwBBq7WVaOlL7w0hhqiTyjqtxmLhfA)
+I am excited to apply these insights and skills to future projects, driving continued growth and success.
 
-### 📬 Get in Touch:
+Thank you for reading.
 
-* \[Portfolio](https://codebasics.io/portfolio/Shivendra-Chaurasia)
-* \[LinkedIn](https://www.linkedin.com/in/shivendrachaurasia/)
-* \[Email](shivendrachaurasia855@gmail.com)
+# Author
+**Shivendra Chaurasia**
+📧 [Email](shivendrachaurasia855gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/shivendrachaurasia)
 
-Thank you!
+
