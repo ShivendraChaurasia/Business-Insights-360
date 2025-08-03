@@ -7,6 +7,7 @@ AtliQ, a rapidly expanding global player in the computer hardware industry, face
 * **Power BI**, **MySQL**, **Excel**
 * Dataset provided by **AtliQ Hardware**
 
+**Dashboard Link :**https://app.powerbi.com/groups/me/reports/0d661e9f-5a00-46fc-b69a-444d46ec4eff/721b4f71823a7d35623d?experience=power-bi
 ---
 
 ###  Project Workflow:
